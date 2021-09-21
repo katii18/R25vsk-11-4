@@ -3,6 +3,6 @@ print ("Luize Veze")
 print ("Katrina Vevere")
 print ("Čeks Ikea")
 print (" Īpašības")
-print ("  lampa")
+print (" dators")
 print (" Metodes")
-print ("pieskaitīt")
+print (" uzstādīt"
